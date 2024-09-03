@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#fefefe</color>
+    <color name="mainColor">#22252d</color>
+    <color name="bordColor">#292d36</color>
+    <color name="text_color">#36454F</color>
+    <color name="edit_text_bg">#D3D3D3</color>
+    <color name="button_bg">#FF7F50</color>
+    <color name="background">#149286</color>
+    <color name="button_color">#272b33</color>
+    <color name="op_color">#d56162</color>
+    <color name="num_pad_color">#e7e7e8</color>
+    <color name="colorsos">#25ecd0</color>
+    <color name="bottom_bar_color">#474b52</color>
+    <color name="mode_selected">#e7e7e8</color>
+    <color name="mode_unselected">#474b52</color>
+</resources>
